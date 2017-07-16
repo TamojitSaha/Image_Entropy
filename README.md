@@ -15,7 +15,6 @@ function format: imageEntropy(file_name, image_caption, image_height, image_widt
 
 
 ### Source Image
-tagore.jpg
 ![alt text](https://github.com/tamsaha1995/Image-Entropy-/blob/master/tagore.jpg "tagore.jpg")
 
 
